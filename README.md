@@ -103,16 +103,16 @@ Please see my script that represent my analysis steps.
 The benefit of refactoring is more efficient code that has faster run time that overall increases productivity. Please see the following execution time and results for the refactor code as well as the execution time for the original code. For both 2017 and 2018, the refactor code has a faster execution time. In 2017, the difference in execution time is 0.945313 = 1.132813 – 0.1875 If we extrapolate the difference in run time for 12 stocks to say 120,000 stocks the difference in execution time is now around 16 minutes. The difference in execution time demonstrates the importance of refactoring when coding for larger datasets and more complicated analysis. 
 
 #### 2017 
-![VBA_Challenge_2017] (Resources/ VBA_Challenge_2017.png)
-![ VBA_Challenge_2017_Output] (Resources/ VBA_Challenge_2017_Output.png)
+![VBA_Challenge_2017](Resources/ VBA_Challenge_2017.png)
+![ VBA_Challenge_2017_Output](Resources/ VBA_Challenge_2017_Output.png)
 
 #### 2018 
-![VBA_Challenge_2018] (Resources/ VBA_Challenge_2018.png)
-![ VBA_Challenge_2018_Output] (Resources/ VBA_Challenge_2018_Output.png)
+![VBA_Challenge_2018](Resources/ VBA_Challenge_2018.png)
+![ VBA_Challenge_2018_Output](Resources/ VBA_Challenge_2018_Output.png)
 
 #### Original Execution Time 
-![ VBA_Challenge_Original_2017] (Resources/ VBA_Challenge_Original_2017.png)
-![ VBA_Challenge_Original_2018] (Resources/ VBA_Challenge_Original_2018.png)
+![ VBA_Challenge_Original_2017](Resources/ VBA_Challenge_Original_2017.png)
+![ VBA_Challenge_Original_2018](Resources/ VBA_Challenge_Original_2018.png)
 
 ## Summary 
 
