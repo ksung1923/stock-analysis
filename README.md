@@ -105,25 +105,34 @@ The benefit of refactoring is more efficient code that has faster run time that 
 #### 2017 
 
 2017 Refactor Execution Time:
+
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
+
 2017 Output:
+
 ![VBA_Challenge_2017_Output](Resources/VBA_Challenge_2017_Output.PNG)
 
 #### 2018 
 
 2018 Refactor Execution Time:
+
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
+
 2018 Output:
+
 ![VBA_Challenge_2018_Output](Resources/VBA_Challenge_2018_Output.PNG)
 
 #### Original Execution Time 
 
 2017 Original Execution Time:
+
 ![VBA_Challenge_Original_2017](Resources/VBA_Challenge_Original_2017.PNG)
 
+
 2018 Original Execution Time: 
+
 ![VBA_Challenge_Original_2018](Resources/VBA_Challenge_Original_2018.PNG)
 
 ## Summary 
