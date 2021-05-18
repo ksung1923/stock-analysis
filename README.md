@@ -11,15 +11,15 @@ Using images and examples of your code, compare the stock performance between 20
 
 ### Analysis 
 To begin my analysis, I used my original code as a starting point to then edit and refractor. I took the following steps to improve and refractor my original code. 
-1.	a) I created a “tickerIndex” variable and set it to zero before iterating over all the rows. I used this variable to access the correct index across the arrays I will be using in my code. 
-1.	b) Next, I created three output arrays for the following variables “tickerVolumes” as a Long data type and “tickerStartingPrices” and “tickerEndingPrices” as a Single data type. 
-2.	a) Then, I created a for loop to initialize the “tickerVolumes to zero. 
-2.	b) I also created another for loop to loop over all the rows in the spreadsheet
-3.	a) Inside the loop in Step 2b, I wrote a script that increases the current “tickerVolumes”, which represents the stock ticker volume. The script adds the ticker volume for the current stock sticker. 
-3.	b) With an if-then statement, I check if the current row is the first row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerStartingPrices” Variable. 
-3.	c) Again, with an if-then statement, I check if the current row is the last row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerEndingPrices” Variable. 
-3.	d) Next, I write a script to increase the tickerIndex if the next row’s ticker does not match the previous row’s ticker. 
-4.	Finally, I use a for loop to loop through my arrays of “ticker”, “tickerVolume”, “tickerStartingPrices”,  and “tickerEndingPrices” to output the columns “Ticker”, “Total Daily Volume”, and “Return” in my spreadsheet. 
+1.	1a) I created a “tickerIndex” variable and set it to zero before iterating over all the rows. I used this variable to access the correct index across the arrays I will be using in my code. 
+1.	1b) Next, I created three output arrays for the following variables “tickerVolumes” as a Long data type and “tickerStartingPrices” and “tickerEndingPrices” as a Single data type. 
+2.	2a) Then, I created a for loop to initialize the “tickerVolumes to zero. 
+2.	2b) I also created another for loop to loop over all the rows in the spreadsheet
+3.	3a) Inside the loop in Step 2b, I wrote a script that increases the current “tickerVolumes”, which represents the stock ticker volume. The script adds the ticker volume for the current stock sticker. 
+3.	3b) With an if-then statement, I check if the current row is the first row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerStartingPrices” Variable. 
+3.	3c) Again, with an if-then statement, I check if the current row is the last row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerEndingPrices” Variable. 
+3.	3d) Next, I write a script to increase the tickerIndex if the next row’s ticker does not match the previous row’s ticker. 
+4.	4) Finally, I use a for loop to loop through my arrays of “ticker”, “tickerVolume”, “tickerStartingPrices”,  and “tickerEndingPrices” to output the columns “Ticker”, “Total Daily Volume”, and “Return” in my spreadsheet. 
 
 ### VBA Script
 Please see my script that represent my analysis steps. 
