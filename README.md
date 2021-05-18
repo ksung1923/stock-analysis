@@ -19,7 +19,7 @@ To begin my analysis, I used my original code as a starting point to then edit a
 3.	3b) With an if-then statement, I check if the current row is the first row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerStartingPrices” Variable. 
 3.	3c) Again, with an if-then statement, I check if the current row is the last row with the selected “tickerIndex”. If yes, then I assign the current starting price to the “tickerEndingPrices” Variable. 
 3.	3d) Next, I write a script to increase the tickerIndex if the next row’s ticker does not match the previous row’s ticker. 
-4.	4) Finally, I use a for loop to loop through my arrays of “ticker”, “tickerVolume”, “tickerStartingPrices”,  and “tickerEndingPrices” to output the columns “Ticker”, “Total Daily Volume”, and “Return” in my spreadsheet. 
+4.	4a) Finally, I use a for loop to loop through my arrays of “ticker”, “tickerVolume”, “tickerStartingPrices”,  and “tickerEndingPrices” to output the columns “Ticker”, “Total Daily Volume”, and “Return” in my spreadsheet. 
 
 ### VBA Script
 Please see my script that represent my analysis steps. 
